@@ -1,3 +1,2 @@
 This is my first file generted on local machine.
-adding branch to local machine 
-i want to undo the latest commit
+adding branch to local machine
